@@ -1,0 +1,16 @@
+{
+  "name": "titorder",
+  "version": "1.0.0",
+  "description": "Tito order export has separate column for every ticket type, this tool aggregates tickets of each order to a single field per order",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "2.11.0",
+    "csv": "1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nec@shell8.net",
+  "license": "MIT"
+}
