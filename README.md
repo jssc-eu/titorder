@@ -1,5 +1,7 @@
 # titorder
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/JSConfBp/titorder.svg)](https://greenkeeper.io/)
+
 Tito order export has separate column for every ticket type, this tool aggregates tickets of each order to a single field per order
 
 It might be less parseable for machines, but more readable for human eyes
